@@ -4,7 +4,7 @@ clc
 
 %% Parameters
 global lambda gam kap 
-lambda=.9;
+lambda=.42;
 gam=.4;
 kap=.01;
 S0=1;
